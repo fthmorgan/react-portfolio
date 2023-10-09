@@ -26,12 +26,12 @@ const Sidebar = () => (
     </nav>
     <ul>
       <li>
-        <a target="_blank" rel='noreferrer' href='www.linkedin.com/in/faith-morgan-94686b289'>
+        <a title="Faith's Linkedin" target="_blank" rel='noreferrer' href='www.linkedin.com/in/faith-morgan-94686b289'>
           <FontAwesomeIcon icon={faLinkedin} color="#4d4d4e" />
         </a>
       </li>
       <li>
-        <a target="_blank" rel='noreferrer' href='https://github.com/fthmorgan'>
+        <a title="Faith's GitHub" target="_blank" rel='noreferrer' href='https://github.com/fthmorgan'>
           <FontAwesomeIcon icon={faGithub} color="#4d4d4e" />
         </a>
       </li>

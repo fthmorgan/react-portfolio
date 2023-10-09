@@ -1,5 +1,5 @@
 import './index.scss'
-import AnimatedLetters from "../../AnimatedLetters/index.js"
+import AnimatedLetters from "../AnimatedLetters/index.js"
 import { useEffect, useState } from "react"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import { faCss3, faGitAlt, faHtml5, faJsSquare, faNode, faVuejs } from "@fortawesome/free-brands-svg-icons"
